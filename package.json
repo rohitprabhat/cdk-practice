@@ -1,0 +1,33 @@
+{
+  "name": "cdk-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitprabhat/cdk-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitprabhat/cdk-practice/issues"
+  },
+  "homepage": "https://github.com/rohitprabhat/cdk-practice#readme",
+  "devDependencies": {
+    "aws-cdk": "^2.17.0",
+    "aws-cdk-lib": "^2.17.0",
+    "constructs": "^10.0.91",
+    "esbuild": "^0.14.27",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "@types/uuid": "^8.3.4",
+    "aws-sdk": "^2.1097.0",
+    "uuid": "^8.3.2"
+  }
+}
